@@ -1,0 +1,5 @@
+print ("Name: Ahuchaogu, Nnaemeka Melvin")
+print ("Dept: Information Technology")
+print ("Level: 200")
+print ("LGA: Obingwa LGA")
+print ("University: Clifford University")
